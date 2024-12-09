@@ -1,4 +1,4 @@
-name: 编译 AX1800Pro-Uboot
+name: 编译 IPQ60XX-Uboot
 
 on:
   repository_dispatch:
